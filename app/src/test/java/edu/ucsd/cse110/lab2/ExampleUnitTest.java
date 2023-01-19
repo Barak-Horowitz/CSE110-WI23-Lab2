@@ -13,7 +13,7 @@ import androidx.test.core.app.ActivityScenario;
  */
 public class ExampleUnitTest {
     @Test
-    public void should_always_pass() {
+ a    public void should_always_pass() {
         assertEquals(3, 3);
     }
 }
